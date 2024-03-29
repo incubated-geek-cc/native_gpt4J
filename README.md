@@ -5,7 +5,7 @@
 ### 📌 Contents & Materials
 
 <ul>
-	<li>📁 demo: For materials used in the demo at <a href='#articleLink' target='_blank'>Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java<a></li>
+	<li>📁 demo: For materials used in the demo at <a href='#articleLink' target='_blank'>Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java</a></li>
 	<li><📁 app: For portable application.</li>
 </ul>
 
@@ -28,9 +28,9 @@
 
 <p>Direct link to retrieve model is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</p>
 
-#### Launch application
+#### How To Launch application
 
-<p><strong>Just double-click gpt4all.jar and await for chat interface to display</strong></p>
+<p>Just double-click gpt4all.jar and await for chat interface to display.</p>
 
 <br><img src='https://miro.medium.com/max/1050/1*9NsRWm70SYS5Au9wnsf8SA.png' width='600px' />
 
