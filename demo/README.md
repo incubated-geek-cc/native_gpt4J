@@ -12,11 +12,18 @@
 
 #### 📁 external
 
-	<table>
+<table>
+	<thead>
 		<tr><th>Name</th><th>Description</th></tr>
+	</thead>
+	<tbody>
 		<tr><td>📁 native</td><td>Contains native binaries to be loaded at runtime.</td></tr>
-		<tr><td>ggml-gpt4all-j-v1.3-groovy.bin</td><td><highlight>Note that the model used in the demo should be present in this folder as well.</highlight> Direct link to retrieve it is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</td></tr>
-	</table>
+		<tr><td>ggml-gpt4all-j-v1.3-groovy.bin</td><td>(Note that the model used in the demo should be present in this folder as well).</td></tr>
+	</tbody>
+</table>
+
+
+<p>Direct link to retrieve it is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</p>
 
 
 #### 📁 src
