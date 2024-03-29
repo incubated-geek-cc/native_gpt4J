@@ -23,19 +23,19 @@
 </table>
 
 
-<p>Direct link to retrieve it is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</p>
+<p>Direct link to retrieve model is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</p>
 
 
 #### 📁 src
 
 <p><strong>Folder contains all demo source code used. Note that these are all based on the developers' original source code at <a href='https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/java/src'>NomicAI - GPT4All</a></strong></p>
 
-#### gpt4all-java-binding-1.1.5.jar
+#### 📦 gpt4all-java-binding-1.1.5.jar
 
 <p><strong>A JAR packaged library with Java bindings for <a href='https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/java/src'>NomicAI - GPT4All</a></strong>. Retrieved from Maven Repository at <a href='https://mvnrepository.com/artifact/com.hexadevlabs/gpt4all-java-binding/1.1.5' target='blank'>Java bindings for GPT4ALL LLM</a></p>
 
 
-#### libs.zip (archive file)
+#### 🗂️ libs.zip (archive file)
 
 <p><strong>Contains a list of JAR dependencies to be added to the project's classpath.</strong></p>
 
