@@ -69,15 +69,13 @@ In the <strong>📁 external</strong>, there are:
 
 <br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/app_preview_splash_screen.gif' width='600px' />
 
-<br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/sample_chat_interface.png' width='600px' />
-
 <br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/basic_demo_alt_qn.gif' width='600px' />
 
 ### ✍ Read related posts here
 
 [**Article :: Link :: Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java**](#articleLink)
 
-<br><img src='https://miro.medium.com/max/1050/1*9NsRWm70SYS5Au9wnsf8SA.png' width='600px' />
+<br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/sample_chat_interface.png' width='600px' />
 
 </div>
 
