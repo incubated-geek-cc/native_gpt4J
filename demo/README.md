@@ -1,4 +1,3 @@
-
 # 📁 demo
 
 ### Here are all materials used in the demo walk-through at [Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java](#articleLink).
@@ -17,14 +16,10 @@
 		<tr><th>Name</th><th>Description</th></tr>
 	</thead>
 	<tbody>
-		<tr><td>📁 native</td><td>Contains native binaries to be loaded at runtime.</td></tr>
-		<tr><td>ggml-gpt4all-j-v1.3-groovy.bin</td><td>(Note that the model used in the demo should be present in this folder as well).</td></tr>
+		<tr><th>📁 native</th><td>Contains native binaries to be loaded at runtime.</td></tr>
+		<tr><th><a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a></th><td>Note that the model used in the demo should be present in this folder as well. Select to download model directly.</td></tr>
 	</tbody>
 </table>
-
-
-<p>Direct link to retrieve model is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</p>
-
 
 #### 📁 src
 
