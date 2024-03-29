@@ -13,19 +13,9 @@
 #### 📁 external
 
 	<table>
-		<thead>
-			<tr>
-				<th>Name</th><th>Description</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>📁 native</td><td>Contains native binaries to be loaded at runtime.</td>
-			</tr>
-			<tr>
-				<td>ggml-gpt4all-j-v1.3-groovy.bin</td><td><highlight>Note that the model used in the demo should be present in this folder as well.</highlight> Direct link to retrieve it is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</td>
-			</tr>
-		</tbody>
+		<tr><th>Name</th><th>Description</th></tr>
+		<tr><td>📁 native</td><td>Contains native binaries to be loaded at runtime.</td></tr>
+		<tr><td>ggml-gpt4all-j-v1.3-groovy.bin</td><td><highlight>Note that the model used in the demo should be present in this folder as well.</highlight> Direct link to retrieve it is at <a href='https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin' target='_blank'>ggml-gpt4all-j-v1.3-groovy.bin</a>.</td></tr>
 	</table>
 
 
@@ -48,13 +38,11 @@
 	<li>asm-commons-9.2.jar</li>
 	<li>asm-tree-9.2.jar</li>
 	<li>asm-util-9.2.jar</li>
-
 	<li>jffi-1.3.0.100-native.jar</li>
 	<li>jffi-1.3.0.jar</li>
 	<li>jnr-a64asm-1.0.0.jar</li>
 	<li>jnr-ffi-2.2.13.jar</li>
 	<li>jnr-x86asm-1.0.2.jar</li>
-
 	<li>slf4j-api-1.7.36.jar</li>
 	<li>slf4j-simple-1.7.35.jar</li>
 </ul>
