@@ -73,7 +73,7 @@ In the <strong>📁 external</strong>, there are:
 
 ### ✍ Read related posts here
 
-[**Article :: Link :: Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java**](#articleLink)
+[**Article :: Link :: Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java**](#https://geek-cc.medium.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8)
 
 <br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/sample_chat_interface.png' width='600px' />
 
