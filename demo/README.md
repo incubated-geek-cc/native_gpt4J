@@ -1,6 +1,7 @@
 # 📁 demo
 
-### Here are all materials used in the demo walk-through at [Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java](#https://geek-cc.medium.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8).
+### Here are all materials used in the demo walk-through at <a href='https://geek-cc.medium.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8' target='_blank'><strong>Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java</strong></a>.
+
 
 <div align="left">
 
