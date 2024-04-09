@@ -31,7 +31,7 @@
 			<td>Contains the portable GPT chat application.</td>
 		</tr>
 		<tr><th><a href='https://github.com/incubated-geek-cc/native_gpt4J/tree/main/demo' target='_blank'>📁 demo</a></th>
-			<td>Contains materials used in the demo implementation <a href='#articleLink' target='_blank'>here</a>.</td>
+			<td>Contains materials used in the demo implementation <a href='https://towardsdatascience.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8' target='_blank'>here</a>.</td>
 		</tr>
 	</tbody>
 </table>
@@ -74,7 +74,7 @@ In the <strong>📁 external</strong>, there are:
 ### ✍ Read related posts here
 
 
-<a href='https://geek-cc.medium.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8' target='_blank'><strong>Article :: Link :: Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java</strong></a>
+<a href='https://towardsdatascience.com/create-and-revamp-your-own-offline-chatgpt-on-local-pc-with-gpt4all-llm-in-java-7c03996f28c8' target='_blank'><strong>Article :: Link :: Create And Revamp Your Own Offline ChatGPT On Local PC With GPT4All LLM In Java</strong></a>
 
 
 <br><img src='https://github.com/incubated-geek-cc/native_gpt4J/raw/main/img/sample_chat_interface.png' width='600px' />
