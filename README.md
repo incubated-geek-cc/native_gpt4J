@@ -3,7 +3,7 @@
 
   # Native GPT-J <small>Developed based on <a href='https://gpt4all.io/index.html' target='_blank'>GPT4All</a></small>
 
-  ### 🛠️ An offline alternative to locally running ChatGPT on your local pc. 🚫 No internet required.
+  ### 🛠️ An offline alternative to locally running ChatGPT on your pc. 🚫 No internet required.
 
 **Ideal for settings where there is limited network connection and for 🔒 highly confidential data settings.**
 
